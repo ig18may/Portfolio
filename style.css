@@ -14,7 +14,7 @@ li a{
 }
 .wrapper {
     display: grid;
-grid-gap: 10px;
+    grid-gap: 10px;
     grid-template-columns: 33% 33% 33%;
     background-color: #fff;
     color: #444;
